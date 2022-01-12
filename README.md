@@ -1,5 +1,7 @@
 ## Hub Objects Research
 
+In the course of building out `HubProjects` it was determined that we should consider looking at a variety of compositional patterns to see if we can do this "elegantly"
+
 Considered 5 approaches:
 
 - [Typescript Mixins](./src/new-mixins.ts)
